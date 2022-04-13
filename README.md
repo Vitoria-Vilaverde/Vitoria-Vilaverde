@@ -1,4 +1,4 @@
-### Hi there 👋
+###
 
 <h1 align="center">Olá 👋, Eu sou Vitória Vilaverde</h1>
 <h3 align="center">Apaixonada por Comunicação e Análise de Dados</h3>
